@@ -1,3 +1,3 @@
 cock
 ```math
-\ce{$\unicode[goombafont;\]{x0000}$}
+\ce{$\unicode[goombafont;\\]{x0000}$}
